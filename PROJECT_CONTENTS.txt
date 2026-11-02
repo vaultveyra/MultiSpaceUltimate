@@ -1,0 +1,3 @@
+MultiSpace Ultimate 0.3.0 source project
+Includes Android manifest, Kotlin implementation, Gradle configuration, GitHub Actions build workflow, icon, theme and Persian documentation.
+This source is a profile-aware app launcher/space organizer, not a universal cloning engine.
