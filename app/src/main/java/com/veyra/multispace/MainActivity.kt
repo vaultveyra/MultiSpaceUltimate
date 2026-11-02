@@ -31,7 +31,7 @@ private data class AppTarget(
 )
 private data class AppEntry(
     val id: String, val packageName: String, val appLabel: String,
-    val customName: String, val serial: Long, val profile: String,
+    var customName: String, val serial: Long, val profile: String,
     val instanceNo: Int, var spaceNo: Int, var position: Int
 )
 
