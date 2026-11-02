@@ -1,2 +1,0 @@
-MultiSpace Ultimate 1.0.0 source project
-Grid-based app-space organizer with per-app nth-selection placement, drag/drop, rename and profile-aware launch. Not a universal cloning engine.
