@@ -263,7 +263,7 @@ class MainActivity : Activity() {
         }
         val search = EditText(this).apply {
             hint = tr("جست‌وجوی برنامه...", "Search apps...")
-            singleLine = true
+            setSingleLine(true)
         }
         dialogLayout.addView(search)
         val tabs = LinearLayout(this).apply { orientation = LinearLayout.HORIZONTAL }
