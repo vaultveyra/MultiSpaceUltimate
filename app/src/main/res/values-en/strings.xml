@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_spaces">Spaces</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="space_default">Space %1$d</string>
+    <string name="spaces_title">Spaces</string>
+    <string name="spaces_hint">Hold icon: move • Hold name: edit</string>
+    <string name="add_app">Add app</string>
+    <string name="search">Search</string>
+    <string name="tab_installed">Installed</string>
+    <string name="tab_system">System</string>
+    <string name="tab_discover">Discover</string>
+    <string name="system_note">System apps may not run in some isolation engines.</string>
+    <string name="discover_hint">Search and install apps from the official store. They are not listed as installed until actually installed.</string>
+    <string name="discover_open_store">Search on Google Play</string>
+    <string name="instances_count">%1$d instances</string>
+    <string name="added_toast">%1$s created in %2$s</string>
+    <string name="empty_title">No apps added yet</string>
+    <string name="empty_body">Tap + to pick an app. The first pick of an app goes to Space 1, the second pick of the same app to Space 2, and so on.</string>
+    <string name="edit_instance">Rename instance</string>
+    <string name="edit_space">Rename space</string>
+    <string name="name_label">Name</string>
+    <string name="edit_hint">Leave it empty or equal to the default name to restore the default.</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="engine_missing">The isolation engine is not connected yet; this instance is only registered and has no independent runtime.</string>
+
+    <string name="dash_title">Dashboard</string>
+    <string name="dash_spaces">Active spaces</string>
+    <string name="dash_instances">Instances</string>
+    <string name="dash_engine">Isolation engine</string>
+    <string name="dash_engine_none">Not connected</string>
+    <string name="dash_engine_note">Instances are registered and organized, but independent execution stays off until the engine is built and tested.</string>
+    <string name="dash_resources">Device resources</string>
+    <string name="dash_ram">RAM</string>
+    <string name="dash_storage">Internal storage</string>
+    <string name="dash_device">Device info</string>
+    <string name="dash_compat">Compatibility</string>
+    <string name="dash_recent">Recent activity</string>
+    <string name="dash_none">No activity yet</string>
+    <string name="free_of">%1$s free of %2$s</string>
+
+    <string name="compat_isolation">Independent instance execution</string>
+    <string name="compat_profile">Android work profile</string>
+    <string name="compat_gms">Google Play Services</string>
+    <string name="compat_virtual">Virtualization engine</string>
+    <string name="compat_notif">Independent notifications</string>
+    <string name="compat_bg">Background execution</string>
+    <string name="support_supported">Supported</string>
+    <string name="support_partial">Partially supported</string>
+    <string name="support_unsupported">Unsupported</string>
+    <string name="support_nottested">Not tested</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="settings_language">Language</string>
+    <string name="lang_soon">Soon</string>
+    <string name="settings_about">About MultiSpace Ultimate</string>
+    <string name="about_text">Version %1$s — numbered spaces for app instances.</string>
+</resources>

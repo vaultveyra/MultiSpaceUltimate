@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">MultiSpace Ultimate</string>
+    <string name="nav_dashboard">داشبورد</string>
+    <string name="nav_spaces">فضاها</string>
+    <string name="nav_settings">تنظیمات</string>
+
+    <string name="space_default">فضای %1$d</string>
+    <string name="spaces_title">فضاها</string>
+    <string name="spaces_hint">نگه‌داشتن روی آیکن: جابه‌جایی • نگه‌داشتن روی نام: ویرایش</string>
+    <string name="add_app">افزودن برنامه</string>
+    <string name="search">جست‌وجو</string>
+    <string name="tab_installed">نصب‌شده</string>
+    <string name="tab_system">سیستمی</string>
+    <string name="tab_discover">کشف</string>
+    <string name="system_note">برنامه‌های سیستمی ممکن است در برخی موتورهای جداسازی اجرا نشوند.</string>
+    <string name="discover_hint">برنامه را در فروشگاه رسمی جست‌وجو و نصب کن. تا نصب واقعی، در فهرست نصب‌شده‌ها نشان داده نمی‌شود.</string>
+    <string name="discover_open_store">جست‌وجو در گوگل‌پلی</string>
+    <string name="instances_count">%1$d نمونه</string>
+    <string name="added_toast">%1$s در %2$s ساخته شد</string>
+    <string name="empty_title">هنوز برنامه‌ای اضافه نشده</string>
+    <string name="empty_body">با دکمه + یک برنامه انتخاب کن. اولین انتخاب هر برنامه در فضای ۱، دومین انتخاب همان برنامه در فضای ۲ و همین‌طور ادامه می‌یابد.</string>
+    <string name="edit_instance">ویرایش نام نمونه</string>
+    <string name="edit_space">ویرایش نام فضا</string>
+    <string name="name_label">نام</string>
+    <string name="edit_hint">برای بازگشت به نام پیش‌فرض، نام را برابر پیش‌فرض یا خالی بگذار.</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">انصراف</string>
+    <string name="delete">حذف</string>
+    <string name="engine_missing">موتور جداسازی هنوز متصل نیست؛ این نمونه فقط ثبت شده و اجرای مستقل ندارد.</string>
+
+    <string name="dash_title">داشبورد</string>
+    <string name="dash_spaces">فضاهای فعال</string>
+    <string name="dash_instances">نمونه‌ها</string>
+    <string name="dash_engine">موتور جداسازی</string>
+    <string name="dash_engine_none">متصل نشده</string>
+    <string name="dash_engine_note">نمونه‌ها ثبت و مرتب می‌شوند، اما اجرای مستقل تا تکمیل و آزمایش موتور فعال نیست.</string>
+    <string name="dash_resources">منابع دستگاه</string>
+    <string name="dash_ram">حافظه RAM</string>
+    <string name="dash_storage">حافظه داخلی</string>
+    <string name="dash_device">اطلاعات دستگاه</string>
+    <string name="dash_compat">سازگاری</string>
+    <string name="dash_recent">فعالیت‌های اخیر</string>
+    <string name="dash_none">فعالیتی ثبت نشده</string>
+    <string name="free_of">%1$s آزاد از %2$s</string>
+
+    <string name="compat_isolation">اجرای مستقل نمونه‌ها</string>
+    <string name="compat_profile">پروفایل کاری اندروید</string>
+    <string name="compat_gms">Google Play Services</string>
+    <string name="compat_virtual">موتور مجازی‌سازی</string>
+    <string name="compat_notif">اعلان‌های مستقل</string>
+    <string name="compat_bg">اجرای پس‌زمینه</string>
+    <string name="support_supported">پشتیبانی‌شده</string>
+    <string name="support_partial">نسبی</string>
+    <string name="support_unsupported">پشتیبانی نمی‌شود</string>
+    <string name="support_nottested">آزمایش‌نشده</string>
+
+    <string name="settings_title">تنظیمات</string>
+    <string name="settings_appearance">ظاهر</string>
+    <string name="theme_system">سیستم</string>
+    <string name="theme_light">روشن</string>
+    <string name="theme_dark">تیره</string>
+    <string name="settings_language">زبان</string>
+    <string name="lang_soon">به‌زودی</string>
+    <string name="settings_about">درباره MultiSpace Ultimate</string>
+    <string name="about_text">نسخه %1$s — مدیریت فضاهای شماره‌دار برای نمونه‌های برنامه‌ها.</string>
+</resources>
